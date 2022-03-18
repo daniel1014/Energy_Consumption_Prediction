@@ -1,4 +1,4 @@
 # Energy Consumption Prediction - Supervised Machine Learning Models 
-This is a demonstratoin of academic coursework in data analytics modules.
+This is a demonstratoin of academic coursework in data analytics modules...
 
 The prediction was based on Polynomial Regression and Support Vector Machines (SVR) models. The research contains findings of energy consumption prediction related to various historic weather factors. Polynomial Regression and Support Vector Regression (SVR) models have been used as data analytics methodologies. This is a time series dataset consists of 8 dimensions that are correlated with weather measurements from 36 locations across the UK. Data management, standardization and exploratory data analysis have been discussed and displayed in the report. Five literature reviews about energy consumption and our approaches were included in the report. An explanation on selecting these two data analytics models and their performance evaluation were also included. Finally, a conclusion was made based on the analysis result.
